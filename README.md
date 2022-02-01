@@ -1,6 +1,6 @@
-# NostalgiaForInfinity Exchange Data
+# Freqtrade Exchange Data
 
-Data for [NostalgiaForInfinity](https://github.com/iterativv/NostalgiaForInfinity)
+Data for freqtrade strategies
 
 ## Updating Data
 
